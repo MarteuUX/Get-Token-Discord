@@ -1,5 +1,4 @@
-# Get-Token-README.md
-Get-Token-Discord
+
 1- Installer le .zip
 
 2- Le Lancer
